@@ -5,7 +5,8 @@ Project Proposal
 *********************************************
 Problem Defination -
 *********************************************
-	Given a few number of interlinked web pages, we need to sort the pages according to relevance with a given query. The whole idea is to create a mini search engine based on Google’s Page Rank Algorithm in this project.
+	Given a few number of interlinked web pages, we need to sort the pages according to relevance with a given query. The whole idea is 
+	to create a mini search engine based on Google’s Page Rank Algorithm in this project.
 
 
 *********************************************
@@ -28,7 +29,12 @@ Deliverable(s)
 *********************************************
 Basic Philosophy:
 *********************************************
-	Just like a research paper is more important because it has lots of citations, a web page is also more important if lots of other web pages refer to it i.e. has outlink to the page. The importance of a scholarly article is more if it has citation from other important articles similarly a page with outlinks from other important pages has higher important than those which does not. Further we say that if a page has n outlinks, it distributes all of its’ importance equally to all the pages it is referring to. So it is like a democritic system in which pages are voting for other pages by giving equal part of their vote to all pages which are being referred by it. The value of vote describe importance of a page.
+	Just like a research paper is more important because it has lots of citations, a web page is also more important if lots of other 
+	web pages refer to it i.e. has outlink to the page. The importance of a scholarly article is more if it has citation from other 
+	important articles similarly a page with outlinks from other important pages has higher important than those which does not. Further 
+	we say that if a page has n outlinks, it distributes all of its’ importance equally to all the pages it is referring to. So it is 
+	like a democritic system in which pages are voting for other pages by giving equal part of their vote to all pages which are being 
+	referred by it. The value of vote describe importance of a page.
 
 *********************************************
 Implementation:
@@ -48,10 +54,10 @@ Implementation:
 Contribution:
 *********************************************
 	The following table gives the details of contribution of each member:
+|Members’ Name | ID | Contribution |
+|----------|--------|--------------|
+| Dilip Puri | 201351014 | Implementation(coding) and Presentation |
+| Abhijeet Singh | 201351005 | Implementation |
+| Chirag Panpalia | 201351001 | Problem study and algorithm development for implementation |
+| Sonu Patidar | 201351016 | Problem study and algorithm development for implementation, report preparation |
 
-	|Members’ Name | ID | Contribution |
-	|----------|--------|--------------|
-	| Dilip Puri | 201351014 | Implementation(coding) and Presentation |
-	| Abhijeet Singh | 201351005 | Implementation |
-	| Chirag Panpalia | 201351001 | Problem study and algorithm development for implementation |
-	| Sonu Patidar | 201351016 | Problem study and algorithm development for implementation, report preparation |
