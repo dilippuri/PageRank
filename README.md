@@ -3,7 +3,7 @@ Project Proposal
 *********************************************
 
 *********************************************
-Problem Defination -
+Problem Definition -
 *********************************************
 	Given a few number of interlinked web pages, we need to sort the pages according to relevance with a given query. The whole idea is 
 	to create a mini search engine based on Google’s Page Rank Algorithm in this project.
@@ -23,7 +23,7 @@ Deliverable(s)
 		- Webpages (HTML) which contains links of another pages.
 		- Query related to those pages
 	Output(s)
-		- List of relevent pages according to their reletivity of given query.
+		- List of relevant pages according to their relativity of given query.
 
 
 *********************************************
@@ -39,7 +39,7 @@ Basic Philosophy:
 *********************************************
 Implementation:
 *********************************************
-	In this section we will discuss about the implementation procedure that we followed in environment we worked.
+	In this section we will discuss about the implementation procedure that we followed in the environment we worked.
 		• For implementation of PageRank we are using LAMP and GNU Octave.
 		• We are storing pages, related keywords and corresponding outlinks.
 		• It will take keywords from query and find related pages then fetch pageid and outlinks.
